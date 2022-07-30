@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+class OperacionesAritmeticas {
     public static void main(String[] args) {
         //Variables locales
         int suma; int resta; int división; int multiplicación;
@@ -14,16 +14,16 @@ public class Main {
         System.out.println(">>>> Calculando operaciones...");
         // Operaciones
         suma = a + b;
-        System.out.println("La suma de a= " + a " y b= " + b ", es igual a = " + suma);
+        System.out.println("La suma de a= " + a " y b= " + b ", es igual = " + suma);
 
         resta = a - b;
         System.out.println("La resta de a= " + a " - b= " + b ", es igual = " + resta);
 
         multiplicación = a * b;
-        System.out.println("La multiplicación de a= " + a " x b= " +b "es igual = "+ multiplicación);
+        System.out.println("La multiplicación de a= " + a " x b= " +b ", es igual = "+ multiplicación);
 
         división = a / b;
-        System.out.println("La división de a= " + a " / b= " + b "es igual = " + división);
+        System.out.println("La división de a= " + a " / b= " + b ", es igual = " + división);
 
 
     }
