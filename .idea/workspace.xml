@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="993ac3f1-e41e-49ac-a647-5d6b9e42cf5a" name="Changes" comment="Cambio de informacion de Git">
+    <list default="true" id="993ac3f1-e41e-49ac-a647-5d6b9e42cf5a" name="Changes" comment="Probando Pull">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/src/Main.java" afterDir="false" />
     </list>
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659062271741</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Probando Pull">
+      <created>1659063447466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659063447466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +88,7 @@
     <MESSAGE value="Creación de primer ejercicio de Java" />
     <MESSAGE value="Primer cambio en Ejercicio 1" />
     <MESSAGE value="Cambio de informacion de Git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio de informacion de Git" />
+    <MESSAGE value="Probando Pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="Probando Pull" />
   </component>
 </project>
