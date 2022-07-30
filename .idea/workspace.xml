@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="993ac3f1-e41e-49ac-a647-5d6b9e42cf5a" name="Changes" comment="Primera prueba de subir codigo de ejercicio 1.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/src/OperacionesAritmeticas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1/src/OperacionesAritmeticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/exercise1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/Ex1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/src/OperacionesAritmeticas.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
